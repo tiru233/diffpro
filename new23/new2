@@ -1,0 +1,15 @@
+#!/bin/bash
+
+type
+df
+top
+df -h
+mkdir new
+rmdir new
+rm -rf new
+awk
+grep
+touch
+cat
+ps -a
+
